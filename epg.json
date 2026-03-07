@@ -18146,186 +18146,6 @@
   ],
   "TNT.Sports.1.HD.uk": [
     {
-      "start": "20260305043000 +0000",
-      "stop": "20260305103000 +0000",
-      "title": "Live: LIV Golf",
-      "subtitle": "Hong Kong-Round 1",
-      "description": "Coverage from the first day of the third round of the season, which takes place at The Hong Kong Golf Club.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/3cdba7e9-8bb9-55a6-98d4-683990e86c3a.jpg"
-    },
-    {
-      "start": "20260305103000 +0000",
-      "stop": "20260305104500 +0000",
-      "title": "TNT Sports Reload",
-      "subtitle": "",
-      "description": "The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.",
-      "category": "Sports",
-      "icon": "https://tv.assets.pressassociation.io/3a81890a-dd99-519d-aede-afc9345e932e.jpg"
-    },
-    {
-      "start": "20260305104500 +0000",
-      "stop": "20260305110000 +0000",
-      "title": "MotoGP Rewind",
-      "subtitle": "Grand Prix of Thailand",
-      "description": "A look back at the best of the action from the Grand Prix of Thailand.",
-      "category": "Motorcycling",
-      "icon": "https://tv.assets.pressassociation.io/5decce67-a906-51e9-878b-c17b5d225009.jpg"
-    },
-    {
-      "start": "20260305110000 +0000",
-      "stop": "20260305113000 +0000",
-      "title": "Serie A - Full Impact",
-      "subtitle": "Matchday 27",
-      "description": "All the best moments from the latest matches, including Inter Milan v Genoa, Hellas Verona v Napoli, AS Roma v Juventus, and Cremonese v AC Milan.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/61f45a7d-1d95-5a39-810d-9ef57bd1b61e.jpg"
-    },
-    {
-      "start": "20260305113000 +0000",
-      "stop": "20260305120000 +0000",
-      "title": "UEFA Champions League Magazine",
-      "subtitle": "",
-      "description": "Newcastle United's Eddie Howe reflects on his 18-year coaching career and how his view on the game has evolved. Plus, a chat with Real Madrid goalkeeper Thibaut Courtois.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/f87011e7-2a0d-5a0a-a9fe-ee58a59ade16.jpg"
-    },
-    {
-      "start": "20260305120000 +0000",
-      "stop": "20260305130000 +0000",
-      "title": "PREM Rugby Cup",
-      "subtitle": "Bath Rugby v Gloucester Rugby",
-      "description": "Bath v Gloucester.",
-      "category": "Rugby Union - Domestic",
-      "icon": "https://tv.assets.pressassociation.io/62ac54e8-24ca-5b09-b1db-27d12217634e.jpg"
-    },
-    {
-      "start": "20260305130000 +0000",
-      "stop": "20260305140000 +0000",
-      "title": "Winter Olympic Games",
-      "subtitle": "Hall Of Fame",
-      "description": "A look back at some of the outstanding athletes and achievements at the 2026 Winter Olympic Games in Italy.",
-      "category": "Winter Sports",
-      "icon": "https://tv.assets.pressassociation.io/d991c869-bf36-50f9-9b71-4f7d759e5a02.jpg"
-    },
-    {
-      "start": "20260305140000 +0000",
-      "stop": "20260305154500 +0000",
-      "title": "Live: Ski Jumping World Cup",
-      "subtitle": "Lahti-HS130-Women-Day 1",
-      "description": "Coverage from day one of the women's HS130, which takes place in Lahti, Finland.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/e187c50a-8530-5b34-819a-a555ed095a2e.jpg"
-    },
-    {
-      "start": "20260305154500 +0000",
-      "stop": "20260305174500 +0000",
-      "title": "Live: Biathlon World Cup",
-      "subtitle": "Kontiolahti-Individual-Women",
-      "description": "Coverage from the women's individual event, which takes place in Kontiolahti, Finland.",
-      "category": "Winter Sports",
-      "icon": "https://tv.assets.pressassociation.io/e25f654c-e1b9-546c-82f4-cf512f155467.jpg"
-    },
-    {
-      "start": "20260305174500 +0000",
-      "stop": "20260305180000 +0000",
-      "title": "MotoGP Rewind",
-      "subtitle": "Grand Prix of Thailand",
-      "description": "A look back at the best of the action from the Grand Prix of Thailand.",
-      "category": "Motorcycling",
-      "icon": "https://tv.assets.pressassociation.io/5decce67-a906-51e9-878b-c17b5d225009.jpg"
-    },
-    {
-      "start": "20260305180000 +0000",
-      "stop": "20260305183000 +0000",
-      "title": "Match Officials Mic'd Up",
-      "subtitle": "",
-      "description": "Howard Webb offers insight into recent incidents from the Premier League, including Randal Kolo Muani's disallowed goal in the north London derby and Dominik Szoboszlai's red card.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/1836e055-4005-5ec5-a230-1e0756da8fd3.jpg"
-    },
-    {
-      "start": "20260305183000 +0000",
-      "stop": "20260305190000 +0000",
-      "title": "Premier League - The Big Interview",
-      "subtitle": "",
-      "description": "Owen Hargreaves talks to Liverpool midfielder Ryan Gravenberch.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/50785c6d-60b0-511a-84e0-3e8eb69b8fad.jpg"
-    },
-    {
-      "start": "20260305190000 +0000",
-      "stop": "20260305223000 +0000",
-      "title": "Live Premier League",
-      "subtitle": "Tottenham v Crystal Palace",
-      "description": "Tottenham Hotspur v Crystal Palace (Kick-off 8.00pm). Coverage of the top-flight match from Tottenham Hotspur Stadium. The reverse fixture at the end of December saw Tottenham pick up an important away victory as Harry Gray scored his first goal for the club to earn them a 1-0 win. The three points for Spurs ended a run of two consecutive defeats against Palace for the North London club, moving them up to 11th in the league and just a point behind Oliver Glasner's team.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/39fbfd0c-f73b-5ab8-8406-8e25b2db5201.jpg"
-    },
-    {
-      "start": "20260305223000 +0000",
-      "stop": "20260305224500 +0000",
-      "title": "Training Day",
-      "subtitle": "Tottenham Women",
-      "description": "Featuring Tottenham Hotspur F.C. Women.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/47e1da4e-cea3-57e7-9224-388d7f1af49b.jpg"
-    },
-    {
-      "start": "20260305224500 +0000",
-      "stop": "20260305230000 +0000",
-      "title": "The Breakdown",
-      "subtitle": "Erling Haaland",
-      "description": "Owen Hargreaves sits down with Manchester City star Erling Haaland to talk all things goals, records and his achievements so far.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/54b68fbd-fed8-5d2a-9ad9-fa188a8929de.jpg"
-    },
-    {
-      "start": "20260305230000 +0000",
-      "stop": "20260306003000 +0000",
-      "title": "The Club That George Built",
-      "subtitle": "",
-      "description": "A look at George Dowell's determination to transform his childhood club Worthing FC into a National League team after saving it from financial ruin.",
-      "category": "Sports",
-      "icon": "https://tv.assets.pressassociation.io/ae010e17-a2b8-5e3c-8e26-2077fb58679d.jpg"
-    },
-    {
-      "start": "20260306003000 +0000",
-      "stop": "20260306010000 +0000",
-      "title": "UEFA Champions League Magazine",
-      "subtitle": "",
-      "description": "Newcastle United's Eddie Howe reflects on his 18-year coaching career and how his view on the game has evolved. Plus, a chat with Real Madrid goalkeeper Thibaut Courtois.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/f87011e7-2a0d-5a0a-a9fe-ee58a59ade16.jpg"
-    },
-    {
-      "start": "20260306010000 +0000",
-      "stop": "20260306013000 +0000",
-      "title": "Serie A - Full Impact",
-      "subtitle": "Matchday 27",
-      "description": "All the best moments from the latest matches, including Inter Milan v Genoa, Hellas Verona v Napoli, AS Roma v Juventus, and Cremonese v AC Milan.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/61f45a7d-1d95-5a39-810d-9ef57bd1b61e.jpg"
-    },
-    {
-      "start": "20260306013000 +0000",
-      "stop": "20260306020000 +0000",
-      "title": "Fight Week",
-      "subtitle": "UFC 326 Preview Show",
-      "description": "A preview of the stacked card for UFC 326.",
-      "category": "Combat Sports (without own categ",
-      "icon": "https://tv.assets.pressassociation.io/3495c4b4-611e-55b9-a5d6-1aa805781609.jpg"
-    },
-    {
-      "start": "20260306020000 +0000",
-      "stop": "20260306033000 +0000",
-      "title": "LIV Golf",
-      "subtitle": "Hong Kong-Round 1",
-      "description": "Action from the first day of the third round of the season, which takes place at The Hong Kong Golf Club.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/777604a9-5d09-535a-91cb-e558b102e1d2.jpg"
-    },
-    {
       "start": "20260306033000 +0000",
       "stop": "20260306093000 +0000",
       "title": "Live: LIV Golf",
@@ -18855,180 +18675,225 @@
       "description": "Harlequins Women v Saracens Women.",
       "category": "Rugby Union - Domestic",
       "icon": "https://tv.assets.pressassociation.io/d4872dab-9d02-56e4-bd90-177e3646eeaa.jpg"
+    },
+    {
+      "start": "20260309053000 +0000",
+      "stop": "20260309060000 +0000",
+      "title": "The WRC Magazine",
+      "subtitle": "Safari Rally Kenya",
+      "description": "The latest news and action from Safari Rally Kenya.",
+      "category": "Rallying",
+      "icon": "https://tv.assets.pressassociation.io/9a84996e-b990-5750-b56f-546b2e069adc.jpg"
+    },
+    {
+      "start": "20260309060000 +0000",
+      "stop": "20260309070000 +0000",
+      "title": "Winter Paralympic Games Highlights",
+      "subtitle": "Day 3",
+      "description": "Action from day three of the games.",
+      "category": "Winter Sports",
+      "icon": "https://tv.assets.pressassociation.io/0a46451f-aff8-54e9-a6d6-214f6cd37281.jpg"
+    },
+    {
+      "start": "20260309070000 +0000",
+      "stop": "20260309080000 +0000",
+      "title": "PREM Rugby Cup",
+      "subtitle": "Exeter Chiefs v Northampton Saints",
+      "description": "Action from Exeter Chiefs v Northampton Saints in the first semi-final.",
+      "category": "Rugby Union - Domestic",
+      "icon": "https://tv.assets.pressassociation.io/4edeeb00-1add-5b28-8035-94b4305c8943.jpg"
+    },
+    {
+      "start": "20260309080000 +0000",
+      "stop": "20260309090000 +0000",
+      "title": "PREM Rugby Cup",
+      "subtitle": "Leicester Tigers v Bath Rugby",
+      "description": "Action from Leicester Tigers v Bath Rugby in the second semi-final.",
+      "category": "Rugby Union - Domestic",
+      "icon": "https://tv.assets.pressassociation.io/4edeeb00-1add-5b28-8035-94b4305c8943.jpg"
+    },
+    {
+      "start": "20260309090000 +0000",
+      "stop": "20260309100000 +0000",
+      "title": "Women's Cycling World Tour",
+      "subtitle": "Strade Bianche",
+      "description": "Action from the 2026 Strade Bianche in Tuscany, Italy.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/163c58b1-23ad-5fb5-aa09-94063bdb5fe4.jpg"
+    },
+    {
+      "start": "20260309100000 +0000",
+      "stop": "20260309110000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Strade Bianche",
+      "description": "Action from the 2026 Strade Bianche in Tuscany, Italy.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/6d029b7e-dcd0-591e-b6ba-e849b74fee78.jpg"
+    },
+    {
+      "start": "20260309110000 +0000",
+      "stop": "20260309120000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Paris Nice-Stage 1",
+      "description": "Action from the first stage of the Paris-Nice 2026.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/518fad91-78cd-55d3-9e63-5b0b05a1200b.jpg"
+    },
+    {
+      "start": "20260309120000 +0000",
+      "stop": "20260309144500 +0000",
+      "title": "Live: Men's Cycling World Tour",
+      "subtitle": "Tirreno Adriatico-Stage 1",
+      "description": "The 2026 Tirreno Adriatico. Coverage of the first stage of the race, an 11km individual time trial around Lido di Camaiore.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/c8893994-7c9f-5099-ab3a-e08e9eeca56a.jpg"
+    },
+    {
+      "start": "20260309144500 +0000",
+      "stop": "20260309161500 +0000",
+      "title": "Live: Men's Cycling World Tour",
+      "subtitle": "Paris Nice-Stage 2",
+      "description": "The 2026 Paris-Nice. Coverage of the second stage of the race, a 187km route from Epone to Montargis. This is the second of eight stages taking place across eight days, starting in the North of France before finishing in Nice in the South of the country.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/79cf7ec2-6276-50a6-afc3-599c3430a23d.jpg"
+    },
+    {
+      "start": "20260309161500 +0000",
+      "stop": "20260309163000 +0000",
+      "title": "FA Cup: The People's Story - Women's FA Cup",
+      "subtitle": "",
+      "description": "A documentary telling the story of the first women's FA Cup final to be played at Wembley, featuring interviews with Katie Chapman and Alex Greenwood.",
+      "category": "Sports",
+      "icon": "https://tv.assets.pressassociation.io/23e48f71-2065-57f9-994a-f49d0e2935fa.jpg"
+    },
+    {
+      "start": "20260309163000 +0000",
+      "stop": "20260309173000 +0000",
+      "title": "UEFA Europa League & Conference League Magazine",
+      "subtitle": "",
+      "description": "Jamaican star Leon Bailey discusses his heritage and its connections to the city of Birmingham. Plus, interviews wiyh SC Freiburg's Vincenzo Griffo and Lyon's Remi Himbert.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/aa3d3092-9b84-5479-92e7-172394364aba.jpg"
+    },
+    {
+      "start": "20260309173000 +0000",
+      "stop": "20260309180000 +0000",
+      "title": "UEFA Champions League Magazine",
+      "subtitle": "",
+      "description": "A look back at the rivalry between Real Madrid and Manchester City, plus interviews with Gianluigi Donnarumma, Luis Diaz, and Willian Pacho.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/f07495fa-4ae4-5650-94af-cb91b5da1eb7.jpg"
+    },
+    {
+      "start": "20260309180000 +0000",
+      "stop": "20260309183000 +0000",
+      "title": "The Breakdown",
+      "subtitle": "UEFA Champions League-Round of 16-Preview",
+      "description": "A look ahead to the UEFA Champions League last-16 matches.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/e104af77-eb29-55f9-b431-0d6e471d4bb0.jpg"
+    },
+    {
+      "start": "20260309183000 +0000",
+      "stop": "20260309220000 +0000",
+      "title": "Live Emirates FA Cup",
+      "subtitle": "Live: West Ham United v Brentford",
+      "description": "West Ham United v Brentford (Kick-off 7.30pm). Coverage from the fifth-round match from The London Stadium, as the two Premier League sides go head to head in a fight to reach the quarter-finals. They last met here back in October when goals from Igor Thiago and Mathias Jensen gave the visitors a 2-0 victory in the league. West Ham's last success against the Bees came in a 4-2 win at this ground back in February 2024.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/41990661-d8ec-5ec9-8989-34a8eb8141d7.jpg"
+    },
+    {
+      "start": "20260309220000 +0000",
+      "stop": "20260309223000 +0000",
+      "title": "The Breakdown",
+      "subtitle": "Liam Rosenior",
+      "description": "Featuring Chelsea manager, Liam Rosenior.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/e104af77-eb29-55f9-b431-0d6e471d4bb0.jpg"
+    },
+    {
+      "start": "20260309223000 +0000",
+      "stop": "20260309224500 +0000",
+      "title": "No Filter Football",
+      "subtitle": "Leeds United",
+      "description": "Behind the scenes with Leeds United.",
+      "category": "Football",
+      "icon": "https://tv.assets.pressassociation.io/d6ba2bd5-17e3-58f7-9f4c-0f81d471dfdf.jpg"
+    },
+    {
+      "start": "20260309224500 +0000",
+      "stop": "20260309233000 +0000",
+      "title": "Sign Up - Into Football",
+      "subtitle": "",
+      "description": "Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.",
+      "category": "",
+      "icon": "https://tv.assets.pressassociation.io/e31aa923-024a-5e9c-8c60-97d17ca9817a.jpg"
+    },
+    {
+      "start": "20260309233000 +0000",
+      "stop": "20260310003000 +0000",
+      "title": "Winter Paralympic Games Highlights",
+      "subtitle": "Day 4",
+      "description": "Action from day four of the games.",
+      "category": "Winter Sports",
+      "icon": "https://tv.assets.pressassociation.io/82bd8c92-dd77-5733-977f-d0afcb5aa2b2.jpg"
+    },
+    {
+      "start": "20260310003000 +0000",
+      "stop": "20260310004500 +0000",
+      "title": "Crouchy and Cole",
+      "subtitle": "Curling",
+      "description": "Peter Crouch and Joe Cole slide into the world of curling to see if they can master the ice, with help from two-time world champion Binia Feltscher.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/23ac7a1a-7b01-5bd2-b7de-8d113135eb09.jpg"
+    },
+    {
+      "start": "20260310004500 +0000",
+      "stop": "20260310010000 +0000",
+      "title": "The Gruppetto",
+      "subtitle": "",
+      "description": "Rob Hatch presents news from the world of cycling.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/a9729edd-5af1-5192-aa7f-7c966cfb6648.jpg"
+    },
+    {
+      "start": "20260310010000 +0000",
+      "stop": "20260310020000 +0000",
+      "title": "Women's Test Match Cricket",
+      "subtitle": "Australia v India-Day Four",
+      "description": "Australia v India. Action from the fourth and final day of the one-off Test from Western Australian Cricket Association Ground in Perth.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/a2848818-6d16-5114-a74d-ebf345d3e957.jpg"
+    },
+    {
+      "start": "20260310020000 +0000",
+      "stop": "20260310030000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "West Ham United v Brentford",
+      "description": "West Ham United v Brentford.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/48e7cdb5-8b4f-576c-a8f1-4fc3799f0e54.jpg"
+    },
+    {
+      "start": "20260310030000 +0000",
+      "stop": "20260310040000 +0000",
+      "title": "UEFA Europa League & Conference League Magazine",
+      "subtitle": "",
+      "description": "Jamaican star Leon Bailey discusses his heritage and its connections to the city of Birmingham. Plus, interviews wiyh SC Freiburg's Vincenzo Griffo and Lyon's Remi Himbert.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/aa3d3092-9b84-5479-92e7-172394364aba.jpg"
+    },
+    {
+      "start": "20260310040000 +0000",
+      "stop": "20260310050000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Tirreno Adriatico-Stage 1",
+      "description": "Action from the first stage of the Tirreno Adriatico 2026.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/e83c99e1-2c4c-5763-8a8c-cb129c4bc543.jpg"
     }
   ],
   "TNT.Sports.2.HD.uk": [
-    {
-      "start": "20260305060000 +0000",
-      "stop": "20260305070000 +0000",
-      "title": "MotoGP Highlights",
-      "subtitle": "Grand Prix of Thailand",
-      "description": "Action from the MotoGP Grand Prix of Thailand.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/c37ae1cf-567c-57a2-99f3-a433dc698714.jpg"
-    },
-    {
-      "start": "20260305070000 +0000",
-      "stop": "20260305083000 +0000",
-      "title": "AFL",
-      "subtitle": "Western Australia v Victoria-State of Origin",
-      "description": "Western Australia v Victoria.",
-      "category": "Australian Rules Football",
-      "icon": "https://tv.assets.pressassociation.io/8ce6faa2-e839-5dd2-983b-67134618afaf.jpg"
-    },
-    {
-      "start": "20260305083000 +0000",
-      "stop": "20260305113000 +0000",
-      "title": "Live AFL",
-      "subtitle": "Sydney Swans v Carlton",
-      "description": "Sydney Swans v Carlton Blues (Bounce-up 8.30am). Coverage of the match from Sydney Cricket Ground.",
-      "category": "Australian Rules Football",
-      "icon": "https://tv.assets.pressassociation.io/7e7e3baf-0a03-534d-9bc7-f307ff53de0b.jpg"
-    },
-    {
-      "start": "20260305113000 +0000",
-      "stop": "20260305130000 +0000",
-      "title": "Ultimate Pool",
-      "subtitle": "Group A-Last 8",
-      "description": "Action from Group A of the last eight of the Ultimate Pool Women's Champions League.",
-      "category": "Pool",
-      "icon": "https://tv.assets.pressassociation.io/ab6da2ec-391d-5725-b5a8-0acedb2ef904.jpg"
-    },
-    {
-      "start": "20260305130000 +0000",
-      "stop": "20260305140000 +0000",
-      "title": "Marathons",
-      "subtitle": "Tokyo",
-      "description": "Action from the 2026 Tokyo Marathon.",
-      "category": "Athletics",
-      "icon": "https://tv.assets.pressassociation.io/4b289648-febf-5596-a701-472b6534802e.jpg"
-    },
-    {
-      "start": "20260305140000 +0000",
-      "stop": "20260305150000 +0000",
-      "title": "Rolex SailGP Championship",
-      "subtitle": "Sydney",
-      "description": "Action from the third round of the season in Sydney, Australia.",
-      "category": "Sailing",
-      "icon": "https://tv.assets.pressassociation.io/a75edb53-5662-5531-a5f2-ef0cfea21744.jpg"
-    },
-    {
-      "start": "20260305150000 +0000",
-      "stop": "20260305160000 +0000",
-      "title": "MotoGP Highlights",
-      "subtitle": "Grand Prix of Thailand",
-      "description": "Action from the MotoGP Grand Prix of Thailand.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/c37ae1cf-567c-57a2-99f3-a433dc698714.jpg"
-    },
-    {
-      "start": "20260305160000 +0000",
-      "stop": "20260305170000 +0000",
-      "title": "Women's One-Day International Cricket",
-      "subtitle": "New Zealand v Zimbabwe-1st ODI",
-      "description": "New Zealand v Zimbabwe. Action from the first ODI in the three-match series from University Oval in Dunedin.",
-      "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/5b897570-e1ef-5a97-9c39-de75f5a05b5b.jpg"
-    },
-    {
-      "start": "20260305170000 +0000",
-      "stop": "20260305183000 +0000",
-      "title": "LIV Golf",
-      "subtitle": "Hong Kong-Round 1",
-      "description": "Action from the first day of the third round of the season, which takes place at The Hong Kong Golf Club.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/777604a9-5d09-535a-91cb-e558b102e1d2.jpg"
-    },
-    {
-      "start": "20260305183000 +0000",
-      "stop": "20260305190000 +0000",
-      "title": "Crouchy and Cole",
-      "subtitle": "Best Of",
-      "description": "A look back at the best of the show, which sees Peter Crouch and Joe Cole go head-to-head in various sporting challenges.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/05dbfbee-e827-52c2-9fd0-ae567f75baba.jpg"
-    },
-    {
-      "start": "20260305190000 +0000",
-      "stop": "20260305200000 +0000",
-      "title": "MLB Classic",
-      "subtitle": "MLB: 2025 World Series Review",
-      "description": "A review of the 2025 World Series between Toronto Blue Jays and Los Angeles Dodgers.",
-      "category": "Baseball",
-      "icon": "https://tv.assets.pressassociation.io/d6d62931-ef9b-5cca-9e42-99f3c59cd0bd.jpg"
-    },
-    {
-      "start": "20260305200000 +0000",
-      "stop": "20260305230000 +0000",
-      "title": "Live MLB",
-      "subtitle": "Spring Training-Dodgers @ Reds",
-      "description": "Cincinnati Reds v Los Angeles Dodgers (Start-time 8.05pm). Coverage of the spring training match from Goodyear Ballpark in Goodyear, Arizona.",
-      "category": "Baseball",
-      "icon": "https://tv.assets.pressassociation.io/ef1723bf-7e6b-51a0-8c0b-33d8f8792bc2.jpg"
-    },
-    {
-      "start": "20260305230000 +0000",
-      "stop": "20260305233000 +0000",
-      "title": "Fight Week",
-      "subtitle": "UFC 326 Preview Show",
-      "description": "A preview of the stacked card for UFC 326.",
-      "category": "Combat Sports (without own categ",
-      "icon": "https://tv.assets.pressassociation.io/3495c4b4-611e-55b9-a5d6-1aa805781609.jpg"
-    },
-    {
-      "start": "20260305233000 +0000",
-      "stop": "20260306001500 +0000",
-      "title": "UFC Countdown",
-      "subtitle": "326",
-      "description": "A countdown to UFC 326 at T-Mobile Arena in Las Vegas.",
-      "category": "Combat Sports (without own categ",
-      "icon": "https://tv.assets.pressassociation.io/3800cf1a-281d-5805-b968-b8a4bd5a15f4.jpg"
-    },
-    {
-      "start": "20260306001500 +0000",
-      "stop": "20260306004500 +0000",
-      "title": "UFC Connected",
-      "subtitle": "",
-      "description": "A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.",
-      "category": "Martial Sports",
-      "icon": "https://tv.assets.pressassociation.io/0e41d990-e57b-5b7e-b807-beade1fc2a02.jpg"
-    },
-    {
-      "start": "20260306004500 +0000",
-      "stop": "20260306021500 +0000",
-      "title": "Ultimate Pool",
-      "subtitle": "Group A-Last 8",
-      "description": "Action from Group A of the last eight of the Ultimate Pool Women's Champions League.",
-      "category": "Pool",
-      "icon": "https://tv.assets.pressassociation.io/ab6da2ec-391d-5725-b5a8-0acedb2ef904.jpg"
-    },
-    {
-      "start": "20260306021500 +0000",
-      "stop": "20260306031500 +0000",
-      "title": "Women's T20 International Cricket",
-      "subtitle": "Australia v India-1st T20",
-      "description": "Australia v India. Action from the first T20 in the three-match series from Sydney Cricket Ground.",
-      "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/f64af8c2-87ad-51f2-8243-79b8eb9e4761.jpg"
-    },
-    {
-      "start": "20260306031500 +0000",
-      "stop": "20260306041500 +0000",
-      "title": "Women's T20 International Cricket",
-      "subtitle": "Australia v India-2nd T20",
-      "description": "Australia v India. Action from the second T20 in the three-match series from Manuka Oval in Canberra.",
-      "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/a591e870-8ebb-538c-9bf3-6dda813dfcf8.jpg"
-    },
-    {
-      "start": "20260306041500 +0000",
-      "stop": "20260306051500 +0000",
-      "title": "Women's T20 International Cricket",
-      "subtitle": "Australia v India-3rd T20",
-      "description": "Australia v India. Action from the third and final ODI in the series from Adelaide Oval.",
-      "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/619b3e2d-c341-5411-b791-a8d6d3ae23f7.jpg"
-    },
     {
       "start": "20260306051500 +0000",
       "stop": "20260306133000 +0000",
@@ -19478,228 +19343,37 @@
       "description": "Australia v India. Action from the third day of the one-off Test from Western Australian Cricket Association Ground in Perth.",
       "category": "Cricket - International",
       "icon": "https://tv.assets.pressassociation.io/90bd141e-9ff4-53a5-977e-3d6551f18561.jpg"
-    }
-  ],
-  "TNT.Sports.3.HD.uk": [
-    {
-      "start": "20260305050000 +0000",
-      "stop": "20260305060100 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Auckland FC v Melbourne City",
-      "description": "Auckland FC v Melbourne City.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/b98838f5-b791-56f7-a97d-eafaba9ae746.jpg"
     },
     {
-      "start": "20260305060100 +0000",
-      "stop": "20260305073000 +0000",
-      "title": "Ultimate Pool",
-      "subtitle": "Group A-Last 8",
-      "description": "Action from Group A of the last eight of the Ultimate Pool Women's Champions League.",
-      "category": "Pool",
-      "icon": "https://tv.assets.pressassociation.io/ab6da2ec-391d-5725-b5a8-0acedb2ef904.jpg"
-    },
-    {
-      "start": "20260305073000 +0000",
-      "stop": "20260305080000 +0000",
-      "title": "Premier League Stories",
-      "subtitle": "",
-      "description": "A round-up of all the news from the top flight.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/d3f4038d-153e-5f50-b680-9a560d593dbd.jpg"
-    },
-    {
-      "start": "20260305080000 +0000",
-      "stop": "20260305083000 +0000",
-      "title": "Women's Alpine Skiing World Cup",
-      "subtitle": "Soldeu-Downhill",
-      "description": "Action from the downhill event in Soldeu, Andorra.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/00fc3622-75d4-5421-99d9-fb2f846395e0.jpg"
-    },
-    {
-      "start": "20260305083000 +0000",
-      "stop": "20260305090000 +0000",
-      "title": "Women's Alpine Skiing World Cup",
-      "subtitle": "Soldeu-Super G-Day 2",
-      "description": "Action from day two of the Super-G in Soldeu, Andorra.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/c0884c3c-ddf5-5825-9e42-cda0b0540578.jpg"
-    },
-    {
-      "start": "20260305090000 +0000",
-      "stop": "20260305093000 +0000",
-      "title": "Men's Alpine Skiing World Cup",
-      "subtitle": "Garmisch-Partenkirchen-Downhill",
-      "description": "Action from the downhill event at Garmisch-Partenkirchen in Germany.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/33fe5947-eeac-5aed-b543-2777facbb1cc.jpg"
-    },
-    {
-      "start": "20260305093000 +0000",
-      "stop": "20260305100000 +0000",
-      "title": "Men's Alpine Skiing World Cup",
-      "subtitle": "Garmisch-Partenkirchen-Super G",
-      "description": "Action from the Super-G in Garmisch-Partenkirchen, Germany.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/8b3e0dbc-fc4a-5890-87c6-ca15b899a328.jpg"
-    },
-    {
-      "start": "20260305100000 +0000",
-      "stop": "20260305110000 +0000",
-      "title": "Live: Ski Mountaineering World Cup",
-      "subtitle": "Shahdag-Mixed Relay",
-      "description": "Coverage from the mixed relay, which takes place in Shahdag, Azerbaijan.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/2912bb93-62ce-5de3-a5a6-c7641b97b2b2.jpg"
-    },
-    {
-      "start": "20260305110000 +0000",
-      "stop": "20260305123000 +0000",
-      "title": "Premier League",
-      "subtitle": "Fulham v West Ham United",
-      "description": "Fulham v West Ham United.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/3691cb3a-9183-5df1-8876-851706d19124.jpg"
-    },
-    {
-      "start": "20260305123000 +0000",
-      "stop": "20260305140000 +0000",
-      "title": "Premier League",
-      "subtitle": "Aston Villa v Chelsea",
-      "description": "Aston Villa v Chelsea.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/1c9e64a3-0a3d-5bc1-8689-f84429a4c817.jpg"
-    },
-    {
-      "start": "20260305140000 +0000",
-      "stop": "20260305153000 +0000",
-      "title": "Premier League",
-      "subtitle": "Manchester City v Nottingham Forest",
-      "description": "Manchester City v Nottingham Forest.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/c1caaaf1-e102-5bb3-99c6-63c97abd5bb7.jpg"
-    },
-    {
-      "start": "20260305153000 +0000",
-      "stop": "20260305170000 +0000",
-      "title": "Premier League",
-      "subtitle": "Brighton v Arsenal",
-      "description": "Brighton \\u0026 Hove Albion v Arsenal.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/ac259216-1d5d-51b9-b6f6-1cd2721ae54b.jpg"
-    },
-    {
-      "start": "20260305170000 +0000",
-      "stop": "20260305183000 +0000",
-      "title": "Premier League",
-      "subtitle": "Newcastle United v Manchester United",
-      "description": "Newcastle United v Manchester United.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/24befa4b-0516-5976-8d03-b79ccc6e10a9.jpg"
-    },
-    {
-      "start": "20260305183000 +0000",
-      "stop": "20260305193000 +0000",
-      "title": "Rylan: Homophobia, Football and Me",
-      "subtitle": "",
-      "description": "TV personality Rylan examines homosexuality within football. He takes a look at his own personal experiences and interviews numerous figures from the beautiful game.",
-      "category": "Sports",
-      "icon": "https://tv.assets.pressassociation.io/d0432a4d-99bd-5ea4-aff3-a6d4f5800259.jpg"
-    },
-    {
-      "start": "20260305193000 +0000",
-      "stop": "20260305194500 +0000",
-      "title": "TNT Sports Reload",
-      "subtitle": "",
-      "description": "The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.",
-      "category": "Sports",
-      "icon": "https://tv.assets.pressassociation.io/3a81890a-dd99-519d-aede-afc9345e932e.jpg"
-    },
-    {
-      "start": "20260305194500 +0000",
-      "stop": "20260305200000 +0000",
-      "title": "TNT Sports Cricket Reload",
-      "subtitle": "New Zealand Women v Zimbabwe Women-1st ODI",
-      "description": "A look back at New Zealand Women v Zimbabwe Women in the first ODI of the series.",
+      "start": "20260309051500 +0000",
+      "stop": "20260309133000 +0000",
+      "title": "Live Women's Test Match Cricket",
+      "subtitle": "Australia v India-Day Four",
+      "description": "Australia v India. Coverage of the fourth and final day from the one-off Test from Western Australian Cricket Association Ground in Perth.",
       "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/5060b8b9-6894-557d-a0c8-711f83612b55.jpg"
+      "icon": "https://tv.assets.pressassociation.io/85c9fc61-ec8c-5090-a5ec-8036f46bc273.jpg"
     },
     {
-      "start": "20260305200000 +0000",
-      "stop": "20260305210000 +0000",
-      "title": "MotoGP Highlights",
-      "subtitle": "Grand Prix of Thailand",
-      "description": "Action from the MotoGP Grand Prix of Thailand.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/c37ae1cf-567c-57a2-99f3-a433dc698714.jpg"
-    },
-    {
-      "start": "20260305210000 +0000",
-      "stop": "20260305223000 +0000",
-      "title": "LIV Golf",
-      "subtitle": "Hong Kong-Round 1",
-      "description": "Action from the first day of the third round of the season, which takes place at The Hong Kong Golf Club.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/777604a9-5d09-535a-91cb-e558b102e1d2.jpg"
-    },
-    {
-      "start": "20260305223000 +0000",
-      "stop": "20260305233000 +0000",
-      "title": "Women's One-Day International Cricket",
-      "subtitle": "New Zealand v Zimbabwe-1st ODI",
-      "description": "New Zealand v Zimbabwe. Action from the first ODI in the three-match series from University Oval in Dunedin.",
-      "category": "Cricket - International",
-      "icon": "https://tv.assets.pressassociation.io/5b897570-e1ef-5a97-9c39-de75f5a05b5b.jpg"
-    },
-    {
-      "start": "20260305233000 +0000",
-      "stop": "20260306010000 +0000",
-      "title": "AFL",
-      "subtitle": "Sydney Swans v Carlton",
-      "description": "Sydney Swans v Carlton Blues.",
-      "category": "Australian Rules Football",
-      "icon": "https://tv.assets.pressassociation.io/217bfb39-23fb-5810-a1db-223df7269815.jpg"
-    },
-    {
-      "start": "20260306010000 +0000",
-      "stop": "20260306023000 +0000",
-      "title": "Premier League",
-      "subtitle": "Tottenham v Crystal Palace",
-      "description": "Tottenham Hotspur v Crystal Palace.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/2c0724fa-e1a4-5e00-8755-94e056f199fc.jpg"
-    },
-    {
-      "start": "20260306023000 +0000",
-      "stop": "20260306033000 +0000",
-      "title": "Classic Premier League",
-      "subtitle": "Premier League: Best Goals",
-      "description": "A look back at the best goals from the 2005/06 season. Thierry Henry became the first player in the league's history to win the Golden Boot four times, top-scoring with 27 goals.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/a595cf7d-ad06-55ec-a131-ff95720b396a.jpg"
-    },
-    {
-      "start": "20260306033000 +0000",
-      "stop": "20260306040000 +0000",
-      "title": "Race Bikes",
+      "start": "20260309133000 +0000",
+      "stop": "20260309141500 +0000",
+      "title": "Sign Up - Into Football",
       "subtitle": "",
-      "description": "Ric heads to South Africa to come face-to-face with the Honda RN-01.",
-      "category": "Extreme",
-      "icon": "https://tv.assets.pressassociation.io/8054011b-fbf4-5fd4-8dee-19f8973840bf.jpg"
+      "description": "Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.",
+      "category": "\"])<",
+      "icon": "https://tv.assets.pressassociation.io/e31aa923-024a-5e9c-8c60-97d17ca9817a.jpg"
     },
     {
-      "start": "20260306040000 +0000",
-      "stop": "20260306044500 +0000",
-      "title": "UFC Countdown",
-      "subtitle": "326",
-      "description": "A countdown to UFC 326 at T-Mobile Arena in Las Vegas.",
-      "category": "Combat Sports (without own categ",
-      "icon": "https://tv.assets.pressassociation.io/3800cf1a-281d-5805-b968-b8a4bd5a15f4.jpg"
+      "start": "20260309141500 +0000",
+      "stop": "20260309161500 +0000",
+      "title": "Live: Men's Cycling World Tour",
+      "subtitle": "Paris Nice-Stage 2",
+      "description": "The 2026 Paris-Nice. Coverage of the second stage of the race, a 187km route from Epone to Montargis. This is the second of eight stages taking place across eight days, starting in the North of France before finishing in Nice in the South of the country.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/79cf7ec2-6276-50a6-afc3-599c3430a23d.jpg"
     },
     {
-      "start": "20260306044500 +0000",
-      "stop": "20260306050000 +0000",
+      "start": "20260309161500 +0000",
+      "stop": "20260309163000 +0000",
       "title": "MotoGP Rewind",
       "subtitle": "Grand Prix of Thailand",
       "description": "A look back at the best of the action from the Grand Prix of Thailand.",
@@ -19707,23 +19381,79 @@
       "icon": "https://tv.assets.pressassociation.io/5decce67-a906-51e9-878b-c17b5d225009.jpg"
     },
     {
-      "start": "20260306050000 +0000",
-      "stop": "20260306053000 +0000",
-      "title": "Isuzu UTE A-League Highlights",
-      "subtitle": "Round 19",
-      "description": "Action from the 19th round of fixtures.",
+      "start": "20260309163000 +0000",
+      "stop": "20260309170000 +0000",
+      "title": "Premier League Stories",
+      "subtitle": "",
+      "description": "A round-up of all the news from the top flight.",
       "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/58084d13-ce74-58dc-a912-c5b472dfdd61.jpg"
+      "icon": "https://tv.assets.pressassociation.io/d3f4038d-153e-5f50-b680-9a560d593dbd.jpg"
     },
     {
-      "start": "20260306053000 +0000",
-      "stop": "20260306060000 +0000",
-      "title": "Serie A - Full Impact",
-      "subtitle": "Matchday 27",
-      "description": "All the best moments from the latest matches, including Inter Milan v Genoa, Hellas Verona v Napoli, AS Roma v Juventus, and Cremonese v AC Milan.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/61f45a7d-1d95-5a39-810d-9ef57bd1b61e.jpg"
+      "start": "20260309170000 +0000",
+      "stop": "20260309203000 +0000",
+      "title": "Live World Baseball Classic",
+      "subtitle": "Great Britain vs Brazil",
+      "description": "Great Britain v Brazil. Coverage of the Pool B match from Daikin Park in Houston. These two teams are amongst five countries in this group hoping to make it through to the quarter-finals alongside the United States, Mexico and Italy.",
+      "category": "Baseball",
+      "icon": "https://tv.assets.pressassociation.io/0074cef2-a874-5257-b69a-2c9ec8278dd8.jpg"
     },
+    {
+      "start": "20260309203000 +0000",
+      "stop": "20260309213000 +0000",
+      "title": "Women's Test Match Cricket",
+      "subtitle": "Australia v India-Day Four",
+      "description": "Australia v India. Action from the fourth and final day of the one-off Test from Western Australian Cricket Association Ground in Perth.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/a2848818-6d16-5114-a74d-ebf345d3e957.jpg"
+    },
+    {
+      "start": "20260309213000 +0000",
+      "stop": "20260309220000 +0000",
+      "title": "Fight Week",
+      "subtitle": "UFC 326 Review Show",
+      "description": "A review of the biggest news coming out of UFC 326.",
+      "category": "Combat Sports (without own categ",
+      "icon": "https://tv.assets.pressassociation.io/8bf589bc-489d-53fc-b618-9ab9dfa4e4b6.jpg"
+    },
+    {
+      "start": "20260309220000 +0000",
+      "stop": "20260310010000 +0000",
+      "title": "UFC",
+      "subtitle": "326-Holloway vs Oliveira 2",
+      "description": "Max Holloway v Charles Oliveira.",
+      "category": "Martial Sports",
+      "icon": "https://tv.assets.pressassociation.io/723138a0-5cd3-5579-bb6d-36c5349831b3.jpg"
+    },
+    {
+      "start": "20260310010000 +0000",
+      "stop": "20260310013000 +0000",
+      "title": "UFC Connected",
+      "subtitle": "",
+      "description": "A unique look inside the UFC with exclusive access to fighters, teams and events from around the globe.",
+      "category": "Martial Sports",
+      "icon": "https://tv.assets.pressassociation.io/0e41d990-e57b-5b7e-b807-beade1fc2a02.jpg"
+    },
+    {
+      "start": "20260310013000 +0000",
+      "stop": "20260310040000 +0000",
+      "title": "UFC Reloaded",
+      "subtitle": "UFC Reloaded: Silva v Lutter 2007",
+      "description": "A look back at UFC 67 from 2007 in Las Vegas, featuring the thrilling headline middleweight bout between Anderson Silva and Travis Lutter.",
+      "category": "Martial Sports",
+      "icon": "https://tv.assets.pressassociation.io/75642e4d-389b-5294-82be-21115dc82101.jpg"
+    },
+    {
+      "start": "20260310040000 +0000",
+      "stop": "20260310050000 +0000",
+      "title": "Women's Test Match Cricket",
+      "subtitle": "Australia v India-Day Four",
+      "description": "Australia v India. Action from the fourth and final day of the one-off Test from Western Australian Cricket Association Ground in Perth.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/a2848818-6d16-5114-a74d-ebf345d3e957.jpg"
+    }
+  ],
+  "TNT.Sports.3.HD.uk": [
     {
       "start": "20260306060000 +0000",
       "stop": "20260306070000 +0000",
@@ -20245,270 +19975,270 @@
       "description": "Action from the Super-G in Fassa Valley, Italy.",
       "category": "Skiing",
       "icon": "https://tv.assets.pressassociation.io/c14cdd3f-f505-54c2-870d-cfff41f2af91.jpg"
+    },
+    {
+      "start": "20260309050100 +0000",
+      "stop": "20260309060000 +0000",
+      "title": "UEFA Europa League & Conference League Magazine",
+      "subtitle": "",
+      "description": "Jamaican star Leon Bailey discusses his heritage and its connections to the city of Birmingham. Plus, interviews wiyh SC Freiburg's Vincenzo Griffo and Lyon's Remi Himbert.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/aa3d3092-9b84-5479-92e7-172394364aba.jpg"
+    },
+    {
+      "start": "20260309060000 +0000",
+      "stop": "20260309063000 +0000",
+      "title": "Premier League Stories",
+      "subtitle": "",
+      "description": "A round-up of all the news from the top flight.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/d3f4038d-153e-5f50-b680-9a560d593dbd.jpg"
+    },
+    {
+      "start": "20260309063000 +0000",
+      "stop": "20260309073000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "FA Cup: Wolves v Liverpool",
+      "description": "Wolverhampton Wanderers v Liverpool.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/6f0f606f-994b-58ed-89d8-6ae9ccb8b6a8.jpg"
+    },
+    {
+      "start": "20260309073000 +0000",
+      "stop": "20260309083000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "FA Cup: Mansfield Town v Arsenal",
+      "description": "Mansfield Town v Arsenal.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/c2fb1970-b567-5437-beff-99a583a5f089.jpg"
+    },
+    {
+      "start": "20260309083000 +0000",
+      "stop": "20260309093000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "FA Cup: Wrexham v Chelsea",
+      "description": "Wrexham v Chelsea.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/aaa282ab-d914-55f2-8dbb-0c7970c28d24.jpg"
+    },
+    {
+      "start": "20260309093000 +0000",
+      "stop": "20260309103000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "Newcastle United v Manchester City",
+      "description": "Newcastle United v Manchester City.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/1139e3e2-4ecc-59b8-be30-55bf04c75e94.jpg"
+    },
+    {
+      "start": "20260309103000 +0000",
+      "stop": "20260309113000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "Fulham v Southampton",
+      "description": "Fulham v Southampton.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/2db32698-b105-5487-8102-921086205533.jpg"
+    },
+    {
+      "start": "20260309113000 +0000",
+      "stop": "20260309123000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "TBC v Sunderland",
+      "description": "Port Vale/Bristol City v Sunderland.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/745b03d4-3bf2-5628-a13b-debe5f9aa8a2.jpg"
+    },
+    {
+      "start": "20260309123000 +0000",
+      "stop": "20260309133000 +0000",
+      "title": "The Emirates FA Cup",
+      "subtitle": "Leeds United v Norwich City",
+      "description": "Leeds United v Norwich City.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/2b18c882-0e4b-584b-a847-1ed304c8b392.jpg"
+    },
+    {
+      "start": "20260309133000 +0000",
+      "stop": "20260309134500 +0000",
+      "title": "FA Cup: The People's Story - Everton",
+      "subtitle": "",
+      "description": "Fans and former players relive the epic 1966 FA Cup final between Everton and Sheffield Wednesday, where Mike Trebilcock made history for the Toffees.",
+      "category": "Sports",
+      "icon": "https://tv.assets.pressassociation.io/e910b298-6a69-51da-838b-aad1abc4cd8c.jpg"
+    },
+    {
+      "start": "20260309134500 +0000",
+      "stop": "20260309144500 +0000",
+      "title": "Serie A",
+      "subtitle": "Genoa v Roma",
+      "description": "Genoa v AS Roma.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"
+    },
+    {
+      "start": "20260309144500 +0000",
+      "stop": "20260309154500 +0000",
+      "title": "Serie A",
+      "subtitle": "AC Milan v Inter",
+      "description": "AC Milan v Inter Milan.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"
+    },
+    {
+      "start": "20260309154500 +0000",
+      "stop": "20260309164500 +0000",
+      "title": "Women's One-Day International Cricket",
+      "subtitle": "New Zealand v Zimbabwe-2nd ODI",
+      "description": "New Zealand v Zimbabwe. Action from the second ODI in the three-match series from University Oval in Dunedin.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/7f99b53d-89b7-5b4d-8ccb-fd42174a0678.jpg"
+    },
+    {
+      "start": "20260309164500 +0000",
+      "stop": "20260309171500 +0000",
+      "title": "The WRC Magazine",
+      "subtitle": "Safari Rally Kenya",
+      "description": "The latest news and action from Safari Rally Kenya.",
+      "category": "Rallying",
+      "icon": "https://tv.assets.pressassociation.io/9a84996e-b990-5750-b56f-546b2e069adc.jpg"
+    },
+    {
+      "start": "20260309171500 +0000",
+      "stop": "20260309180100 +0000",
+      "title": "Sign Up - Into Football",
+      "subtitle": "",
+      "description": "Highlights and analysis in a groundbreaking series that uses British Sign Language and subtitles to make our coverage accessible to deaf and hearing audiences alike.",
+      "category": "\"])<",
+      "icon": "https://tv.assets.pressassociation.io/e31aa923-024a-5e9c-8c60-97d17ca9817a.jpg"
+    },
+    {
+      "start": "20260309180100 +0000",
+      "stop": "20260309213000 +0000",
+      "title": "Live: Ultimate Pool",
+      "subtitle": "Group B-Last 8",
+      "description": "Coverage from Group B of the last eight of the Women's Champions League, as leading eight-ball players battle it out.",
+      "category": "Pool",
+      "icon": "https://tv.assets.pressassociation.io/febbcece-a687-53a9-912a-14272e9ab1c1.jpg"
+    },
+    {
+      "start": "20260309213000 +0000",
+      "stop": "20260309214600 +0000",
+      "title": "MotoGP Rewind",
+      "subtitle": "Grand Prix of Thailand",
+      "description": "A look back at the best of the action from the Grand Prix of Thailand.",
+      "category": "Motorcycling",
+      "icon": "https://tv.assets.pressassociation.io/5decce67-a906-51e9-878b-c17b5d225009.jpg"
+    },
+    {
+      "start": "20260309214600 +0000",
+      "stop": "20260309221500 +0000",
+      "title": "Isuzu UTE A-League Highlights",
+      "subtitle": "Round 20",
+      "description": "Action from the 20th round of fixtures.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/c201b896-fb61-5bc8-a3e0-6d10c95ebbac.jpg"
+    },
+    {
+      "start": "20260309221500 +0000",
+      "stop": "20260309223000 +0000",
+      "title": "The Gruppetto",
+      "subtitle": "",
+      "description": "Rob Hatch presents news from the world of cycling.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/a9729edd-5af1-5192-aa7f-7c966cfb6648.jpg"
+    },
+    {
+      "start": "20260309223000 +0000",
+      "stop": "20260309233000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Tirreno Adriatico-Stage 1",
+      "description": "Action from the first stage of the Tirreno Adriatico 2026.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/e83c99e1-2c4c-5763-8a8c-cb129c4bc543.jpg"
+    },
+    {
+      "start": "20260309233000 +0000",
+      "stop": "20260310003000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Paris Nice-Stage 2",
+      "description": "Action from the second stage of the Paris-Nice 2026.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/1ecf4633-ed18-52ef-a7e5-e3b59ad2b386.jpg"
+    },
+    {
+      "start": "20260310003000 +0000",
+      "stop": "20260310004500 +0000",
+      "title": "TNT Sports Cricket Reload",
+      "subtitle": "New Zealand v West Indies-1st ODI",
+      "description": "A look back at New Zealand v West Indies in the first ODI of the series.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/d972340a-4847-5484-b761-2df9663ec59f.jpg"
+    },
+    {
+      "start": "20260310004500 +0000",
+      "stop": "20260310010000 +0000",
+      "title": "TNT Sports Cricket Reload",
+      "subtitle": "New Zealand v West Indies-2nd ODI",
+      "description": "A look back at New Zealand v West Indies in the second ODI of the series.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/23663bf2-c532-56d8-8e9f-1d8d3c4ca146.jpg"
+    },
+    {
+      "start": "20260310010000 +0000",
+      "stop": "20260310011500 +0000",
+      "title": "TNT Sports Cricket Reload",
+      "subtitle": "New Zealand v West Indies-3rd ODI",
+      "description": "A look back at New Zealand v West Indies in the third ODI of the series.",
+      "category": "Cricket - International",
+      "icon": "https://tv.assets.pressassociation.io/2bb83bcd-1148-51a2-ab0e-8637a9e19972.jpg"
+    },
+    {
+      "start": "20260310011500 +0000",
+      "stop": "20260310014500 +0000",
+      "title": "Formula E Flashback",
+      "subtitle": "Bern 2019",
+      "description": "A look back at the 2019 Swiss ePrix.",
+      "category": "Motor Sport",
+      "icon": "https://tv.assets.pressassociation.io/af8bd82b-f94c-5fc7-8dd1-427081bb5cb5.jpg"
+    },
+    {
+      "start": "20260310014500 +0000",
+      "stop": "20260310020000 +0000",
+      "title": "MotoGP Rewind",
+      "subtitle": "Grand Prix of Thailand",
+      "description": "A look back at the best of the action from the Grand Prix of Thailand.",
+      "category": "Motorcycling",
+      "icon": "https://tv.assets.pressassociation.io/5decce67-a906-51e9-878b-c17b5d225009.jpg"
+    },
+    {
+      "start": "20260310020000 +0000",
+      "stop": "20260310030000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Adelaide United v Wellington Phoenix",
+      "description": "Adelaide United v Wellington Phoenix.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/57bb162b-8e1c-57d1-b95e-8f997a44d9d6.jpg"
+    },
+    {
+      "start": "20260310030000 +0000",
+      "stop": "20260310040000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Newcastle Jets v Western Sydney Wanderers",
+      "description": "Newcastle Jets v Western Sydney Wanderers.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/d914d501-5836-52f4-a1e4-77a56243fa59.jpg"
+    },
+    {
+      "start": "20260310040000 +0000",
+      "stop": "20260310050000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Sydney FC v Melbourne Victory",
+      "description": "Sydney FC v Melbourne Victory.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/656b6308-acad-5790-a48c-553c5d1f91c0.jpg"
     }
   ],
   "TNT.Sports.4.HD.uk": [
-    {
-      "start": "20260305063000 +0000",
-      "stop": "20260305070000 +0000",
-      "title": "UEFA Champions League Magazine",
-      "subtitle": "",
-      "description": "Newcastle United's Eddie Howe reflects on his 18-year coaching career and how his view on the game has evolved. Plus, a chat with Real Madrid goalkeeper Thibaut Courtois.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/f87011e7-2a0d-5a0a-a9fe-ee58a59ade16.jpg"
-    },
-    {
-      "start": "20260305070000 +0000",
-      "stop": "20260305080000 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Central Coast Mariners v Newcastle Jets",
-      "description": "Central Coast Mariners v Newcastle Jets.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/f8c1347d-cfbc-5cd5-831d-a874d5fe34eb.jpg"
-    },
-    {
-      "start": "20260305080000 +0000",
-      "stop": "20260305090000 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Brisbane Roar v Perth Glory",
-      "description": "Brisbane Roar v Perth Glory.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/ac8d5d75-c0ac-5090-94ee-def35d40c58c.jpg"
-    },
-    {
-      "start": "20260305090000 +0000",
-      "stop": "20260305100000 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Macarthur Bulls v Western Sydney Wanderers",
-      "description": "Macarthur Bulls v Western Sydney Wanderers.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/d25e0ae6-c389-5c48-9709-8c4b65a64ed9.jpg"
-    },
-    {
-      "start": "20260305100000 +0000",
-      "stop": "20260305110000 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Wellington Phoenix v Sydney FC",
-      "description": "Wellington Phoenix v Sydney FC.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/72d8477a-7331-5f52-b79d-55acffbd970c.jpg"
-    },
-    {
-      "start": "20260305110000 +0000",
-      "stop": "20260305120000 +0000",
-      "title": "Isuzu UTE A-League",
-      "subtitle": "Macarthur Bulls v Central Coast Mariners",
-      "description": "Macarthur Bulls v Central Coast Mariners.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/8e4c85aa-9f73-5242-b95e-d1dd8ea89d84.jpg"
-    },
-    {
-      "start": "20260305120000 +0000",
-      "stop": "20260305130000 +0000",
-      "title": "The Emirates FA Cup",
-      "subtitle": "Man United v Brighton",
-      "description": "Manchester United v Brighton \\u0026 Hove Albion.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/115b4a13-a926-50d5-bb90-586846d959ed.jpg"
-    },
-    {
-      "start": "20260305130000 +0000",
-      "stop": "20260305140000 +0000",
-      "title": "The Emirates FA Cup",
-      "subtitle": "West Ham United v QPR",
-      "description": "West Ham United v Queens Park Rangers.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/399d2be9-ce0b-5212-bf65-7cbe3adecd82.jpg"
-    },
-    {
-      "start": "20260305140000 +0000",
-      "stop": "20260305150000 +0000",
-      "title": "The Emirates FA Cup",
-      "subtitle": "Liverpool v Barnsley",
-      "description": "Liverpool v Barnsley.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/4945d482-7295-5734-8848-f1cec5c28182.jpg"
-    },
-    {
-      "start": "20260305150000 +0000",
-      "stop": "20260305160000 +0000",
-      "title": "The Emirates FA Cup",
-      "subtitle": "Everton v Sunderland",
-      "description": "Everton v Sunderland.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/b3575b4c-6760-54f5-a877-0a26dbd34a4c.jpg"
-    },
-    {
-      "start": "20260305160000 +0000",
-      "stop": "20260305170000 +0000",
-      "title": "The Emirates FA Cup",
-      "subtitle": "Wrexham v Nottingham Forest",
-      "description": "Wrexham v Nottingham Forest.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/7ed604c4-2d62-5f40-8c3b-491343696afc.jpg"
-    },
-    {
-      "start": "20260305170000 +0000",
-      "stop": "20260305173000 +0000",
-      "title": "Isuzu UTE A-League Highlights",
-      "subtitle": "Round 19",
-      "description": "Action from the 19th round of fixtures.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/58084d13-ce74-58dc-a912-c5b472dfdd61.jpg"
-    },
-    {
-      "start": "20260305173000 +0000",
-      "stop": "20260305190100 +0000",
-      "title": "AFL",
-      "subtitle": "Sydney Swans v Carlton",
-      "description": "Sydney Swans v Carlton Blues.",
-      "category": "Australian Rules Football",
-      "icon": "https://tv.assets.pressassociation.io/217bfb39-23fb-5810-a1db-223df7269815.jpg"
-    },
-    {
-      "start": "20260305190100 +0000",
-      "stop": "20260305200000 +0000",
-      "title": "Rolex SailGP Championship",
-      "subtitle": "Sydney",
-      "description": "Action from the third round of the season in Sydney, Australia.",
-      "category": "Sailing",
-      "icon": "https://tv.assets.pressassociation.io/a75edb53-5662-5531-a5f2-ef0cfea21744.jpg"
-    },
-    {
-      "start": "20260305200000 +0000",
-      "stop": "20260305203000 +0000",
-      "title": "Discovery Golf",
-      "subtitle": "",
-      "description": "A weekly show featuring the latest news from the world of golf.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/6b32375b-b63c-53c8-802f-c6b631451173.jpg"
-    },
-    {
-      "start": "20260305203000 +0000",
-      "stop": "20260305220000 +0000",
-      "title": "Ultimate Pool",
-      "subtitle": "Group A-Last 8",
-      "description": "Action from Group A of the last eight of the Ultimate Pool Women's Champions League.",
-      "category": "Pool",
-      "icon": "https://tv.assets.pressassociation.io/ab6da2ec-391d-5725-b5a8-0acedb2ef904.jpg"
-    },
-    {
-      "start": "20260305220000 +0000",
-      "stop": "20260305223000 +0000",
-      "title": "Fight Week",
-      "subtitle": "UFC 326 Preview Show",
-      "description": "A preview of the stacked card for UFC 326.",
-      "category": "Combat Sports (without own categ",
-      "icon": "https://tv.assets.pressassociation.io/3495c4b4-611e-55b9-a5d6-1aa805781609.jpg"
-    },
-    {
-      "start": "20260305223000 +0000",
-      "stop": "20260305230000 +0000",
-      "title": "TNT Sports Reload",
-      "subtitle": "",
-      "description": "The best bits from TNT Sports over the last week, including exclusive interviews, top action, and more.",
-      "category": "Sports",
-      "icon": "https://tv.assets.pressassociation.io/3a81890a-dd99-519d-aede-afc9345e932e.jpg"
-    },
-    {
-      "start": "20260305230000 +0000",
-      "stop": "20260305233000 +0000",
-      "title": "Biathlon World Cup",
-      "subtitle": "Kontiolahti-Individual-Women",
-      "description": "Action from the women's individual event in Kontiolahti, Finland.",
-      "category": "Winter Sports",
-      "icon": "https://tv.assets.pressassociation.io/fca0ce49-0b66-5d8f-9947-897f96441b6d.jpg"
-    },
-    {
-      "start": "20260305233000 +0000",
-      "stop": "20260306000000 +0000",
-      "title": "Ski Jumping World Cup",
-      "subtitle": "Lahti-HS130-Women-Day 1",
-      "description": "Action from day one of the women's HS130 in Lahti, Finland.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/10b074d2-3c7d-5cbc-b593-d9731f6c57f7.jpg"
-    },
-    {
-      "start": "20260306000000 +0000",
-      "stop": "20260306003000 +0000",
-      "title": "Discovery Golf",
-      "subtitle": "",
-      "description": "A weekly show featuring the latest news from the world of golf.",
-      "category": "Golf",
-      "icon": "https://tv.assets.pressassociation.io/6b32375b-b63c-53c8-802f-c6b631451173.jpg"
-    },
-    {
-      "start": "20260306003000 +0000",
-      "stop": "20260306010000 +0000",
-      "title": "Isuzu UTE A-League Highlights",
-      "subtitle": "Round 19",
-      "description": "Action from the 19th round of fixtures.",
-      "category": "Football - Club",
-      "icon": "https://tv.assets.pressassociation.io/58084d13-ce74-58dc-a912-c5b472dfdd61.jpg"
-    },
-    {
-      "start": "20260306010000 +0000",
-      "stop": "20260306020000 +0000",
-      "title": "Fishing: On the Bank",
-      "subtitle": "",
-      "description": "Rob Highes heads up to Scotland in search of Grayling on the River Annan, and Andy Ford goes out with the EA for a barbel stocking into the River Stour.",
-      "category": "Fishing",
-      "icon": "https://tv.assets.pressassociation.io/e91b05e6-20a3-5caf-a5fc-c56be11c7858.jpg"
-    },
-    {
-      "start": "20260306020000 +0000",
-      "stop": "20260306023000 +0000",
-      "title": "Biathlon World Cup",
-      "subtitle": "Kontiolahti-Individual-Women",
-      "description": "Action from the women's individual event in Kontiolahti, Finland.",
-      "category": "Winter Sports",
-      "icon": "https://tv.assets.pressassociation.io/fca0ce49-0b66-5d8f-9947-897f96441b6d.jpg"
-    },
-    {
-      "start": "20260306023000 +0000",
-      "stop": "20260306030000 +0000",
-      "title": "Ski Jumping World Cup",
-      "subtitle": "Lahti-HS130-Women-Day 1",
-      "description": "Action from day one of the women's HS130 in Lahti, Finland.",
-      "category": "Skiing",
-      "icon": "https://tv.assets.pressassociation.io/10b074d2-3c7d-5cbc-b593-d9731f6c57f7.jpg"
-    },
-    {
-      "start": "20260306030000 +0000",
-      "stop": "20260306033000 +0000",
-      "title": "Formula E Flashback",
-      "subtitle": "Punta Del Este 2018",
-      "description": "A look back at the best of the action from the 2018 Punta del Este ePrix.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/18a7671f-6d00-547a-8471-cf544f923680.jpg"
-    },
-    {
-      "start": "20260306033000 +0000",
-      "stop": "20260306040000 +0000",
-      "title": "Formula E Flashback",
-      "subtitle": "New York City 2018",
-      "description": "A look back at the 2018 New York City ePrix at Brooklyn Street Circuit.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/5f463ddc-9685-5bb7-b4e4-e947a56b6f5a.jpg"
-    },
-    {
-      "start": "20260306040000 +0000",
-      "stop": "20260306050000 +0000",
-      "title": "Supercars Championship Highlights",
-      "subtitle": "Sydney 500",
-      "description": "Action from the Sydney 500.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/70e56554-065d-5a18-a327-073bf45105a7.jpg"
-    },
-    {
-      "start": "20260306050000 +0000",
-      "stop": "20260306060000 +0000",
-      "title": "Supercars Championship Highlights",
-      "subtitle": "Sydney 500",
-      "description": "Further action from the Sydney 500.",
-      "category": "Motor Sport",
-      "icon": "https://tv.assets.pressassociation.io/dacf88bb-bfd0-5af3-ae12-a006fb9691e3.jpg"
-    },
     {
       "start": "20260306060000 +0000",
       "stop": "20260306070000 +0000",
@@ -21075,333 +20805,324 @@
       "description": "Action from the 2026 Strade Bianche in Tuscany, Italy.",
       "category": "Cycling",
       "icon": "https://tv.assets.pressassociation.io/163c58b1-23ad-5fb5-aa09-94063bdb5fe4.jpg"
+    },
+    {
+      "start": "20260309050000 +0000",
+      "stop": "20260309060000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Strade Bianche",
+      "description": "Action from the 2026 Strade Bianche in Tuscany, Italy.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/6d029b7e-dcd0-591e-b6ba-e849b74fee78.jpg"
+    },
+    {
+      "start": "20260309060000 +0000",
+      "stop": "20260309070000 +0000",
+      "title": "Men's Cycling World Tour",
+      "subtitle": "Paris Nice-Stage 1",
+      "description": "Action from the first stage of the Paris-Nice 2026.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/518fad91-78cd-55d3-9e63-5b0b05a1200b.jpg"
+    },
+    {
+      "start": "20260309070000 +0000",
+      "stop": "20260309083000 +0000",
+      "title": "LIV Golf",
+      "subtitle": "Hong Kong-Final Round",
+      "description": "Action from the fourth and final day of the third round of the season, which took place at The Hong Kong Golf Club.",
+      "category": "Golf",
+      "icon": "https://tv.assets.pressassociation.io/1e01f991-788a-542b-b240-cb9c10aae7bf.jpg"
+    },
+    {
+      "start": "20260309083000 +0000",
+      "stop": "20260309093000 +0000",
+      "title": "MotoGP Highlights",
+      "subtitle": "Grand Prix of Thailand",
+      "description": "Action from the MotoGP Grand Prix of Thailand.",
+      "category": "Motor Sport",
+      "icon": "https://tv.assets.pressassociation.io/c37ae1cf-567c-57a2-99f3-a433dc698714.jpg"
+    },
+    {
+      "start": "20260309093000 +0000",
+      "stop": "20260309100000 +0000",
+      "title": "The WRC Magazine",
+      "subtitle": "Safari Rally Kenya",
+      "description": "The latest news and action from Safari Rally Kenya.",
+      "category": "Rallying",
+      "icon": "https://tv.assets.pressassociation.io/9a84996e-b990-5750-b56f-546b2e069adc.jpg"
+    },
+    {
+      "start": "20260309100000 +0000",
+      "stop": "20260309110000 +0000",
+      "title": "Serie A",
+      "subtitle": "Genoa v Roma",
+      "description": "Genoa v AS Roma.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"
+    },
+    {
+      "start": "20260309110000 +0000",
+      "stop": "20260309120000 +0000",
+      "title": "Serie A",
+      "subtitle": "AC Milan v Inter",
+      "description": "AC Milan v Inter Milan.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/8d6ce588-f413-52f0-a098-27e4bec99101.jpg"
+    },
+    {
+      "start": "20260309120000 +0000",
+      "stop": "20260309130000 +0000",
+      "title": "PREM Rugby Cup",
+      "subtitle": "Exeter Chiefs v Northampton Saints",
+      "description": "Action from Exeter Chiefs v Northampton Saints in the first semi-final.",
+      "category": "Rugby Union - Domestic",
+      "icon": "https://tv.assets.pressassociation.io/4edeeb00-1add-5b28-8035-94b4305c8943.jpg"
+    },
+    {
+      "start": "20260309130000 +0000",
+      "stop": "20260309140000 +0000",
+      "title": "PREM Rugby Cup",
+      "subtitle": "Leicester Tigers v Bath Rugby",
+      "description": "Action from Leicester Tigers v Bath Rugby in the second semi-final.",
+      "category": "Rugby Union - Domestic",
+      "icon": "https://tv.assets.pressassociation.io/4edeeb00-1add-5b28-8035-94b4305c8943.jpg"
+    },
+    {
+      "start": "20260309140000 +0000",
+      "stop": "20260309143000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Downhill-Day 2",
+      "description": "Action from the downhill event in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/bbcaa662-f8e5-5286-ad1f-77ca30a46e4f.jpg"
+    },
+    {
+      "start": "20260309143000 +0000",
+      "stop": "20260309150000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Super G",
+      "description": "Action from the Super-G in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/c14cdd3f-f505-54c2-870d-cfff41f2af91.jpg"
+    },
+    {
+      "start": "20260309150000 +0000",
+      "stop": "20260309153000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 1",
+      "description": "Action from run one of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/1146a66d-d2e3-510d-bd09-04820dc2199d.jpg"
+    },
+    {
+      "start": "20260309153000 +0000",
+      "stop": "20260309160000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 2",
+      "description": "Action from run two of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/98d63b41-9ee6-55ea-822f-391b7364cdd5.jpg"
+    },
+    {
+      "start": "20260309160000 +0000",
+      "stop": "20260309163000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Slalom-Run 1",
+      "description": "Action from run one of the slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/cff22493-9dcf-5ab3-8ee6-c2de80a1127d.jpg"
+    },
+    {
+      "start": "20260309163000 +0000",
+      "stop": "20260309170000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Slalom-Run 2",
+      "description": "Action from run two of the slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/4b275c99-3249-52a7-b227-050e2ee284fe.jpg"
+    },
+    {
+      "start": "20260309170000 +0000",
+      "stop": "20260309180000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Newcastle Jets v Western Sydney Wanderers",
+      "description": "Newcastle Jets v Western Sydney Wanderers.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/d914d501-5836-52f4-a1e4-77a56243fa59.jpg"
+    },
+    {
+      "start": "20260309180000 +0000",
+      "stop": "20260309190000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Sydney FC v Melbourne Victory",
+      "description": "Sydney FC v Melbourne Victory.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/656b6308-acad-5790-a48c-553c5d1f91c0.jpg"
+    },
+    {
+      "start": "20260309190000 +0000",
+      "stop": "20260309200000 +0000",
+      "title": "Isuzu UTE A-League",
+      "subtitle": "Auckland FC v Perth Glory",
+      "description": "Auckland FC v Perth Glory.",
+      "category": "Football - Club",
+      "icon": "https://tv.assets.pressassociation.io/5cb3de11-d5e5-5ecd-83a6-9dc78e295744.jpg"
+    },
+    {
+      "start": "20260309200000 +0000",
+      "stop": "20260309201500 +0000",
+      "title": "The Gruppetto",
+      "subtitle": "",
+      "description": "Rob Hatch presents news from the world of cycling.",
+      "category": "Cycling",
+      "icon": "https://tv.assets.pressassociation.io/a9729edd-5af1-5192-aa7f-7c966cfb6648.jpg"
+    },
+    {
+      "start": "20260309201500 +0000",
+      "stop": "20260309204500 +0000",
+      "title": "The WRC Magazine",
+      "subtitle": "Safari Rally Kenya",
+      "description": "The latest news and action from Safari Rally Kenya.",
+      "category": "Rallying",
+      "icon": "https://tv.assets.pressassociation.io/9a84996e-b990-5750-b56f-546b2e069adc.jpg"
+    },
+    {
+      "start": "20260309204500 +0000",
+      "stop": "20260309210000 +0000",
+      "title": "Playing for Our Future - Rugby",
+      "subtitle": "",
+      "description": "Asking what the future holds for rugby in the battle against global warming. Reshmin Chowdhury meets people at all levels to discuss how rugby can be a positive force for change.",
+      "category": "Sports",
+      "icon": "https://tv.assets.pressassociation.io/d8715cf2-e97c-52d7-8dc0-97b34bc27c5d.jpg"
+    },
+    {
+      "start": "20260309210000 +0000",
+      "stop": "20260309220000 +0000",
+      "title": "Fishing: On the Bank",
+      "subtitle": "",
+      "description": "Rob Hughes makes history catching huge perch in Holland, carp expert Dan Hawkes offers some winter tips, while Andy Ford goes in search of grayling on the Upper Avon.",
+      "category": "Fishing",
+      "icon": "https://tv.assets.pressassociation.io/57dcc05e-ac24-568a-b976-224994fe3a0b.jpg"
+    },
+    {
+      "start": "20260309220000 +0000",
+      "stop": "20260309230000 +0000",
+      "title": "AlUla 2026",
+      "subtitle": "Equestrianism",
+      "description": "Action from the AlFursan Endurance AlUla 2026.",
+      "category": "Polo",
+      "icon": "https://tv.assets.pressassociation.io/6b129b0f-30d0-5db2-8a30-ef955b8e1314.jpg"
+    },
+    {
+      "start": "20260309230000 +0000",
+      "stop": "20260309233000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Downhill-Day 2",
+      "description": "Action from the downhill event in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/bbcaa662-f8e5-5286-ad1f-77ca30a46e4f.jpg"
+    },
+    {
+      "start": "20260309233000 +0000",
+      "stop": "20260310000000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Super G",
+      "description": "Action from the Super-G in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/c14cdd3f-f505-54c2-870d-cfff41f2af91.jpg"
+    },
+    {
+      "start": "20260310000000 +0000",
+      "stop": "20260310003000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 1",
+      "description": "Action from run one of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/1146a66d-d2e3-510d-bd09-04820dc2199d.jpg"
+    },
+    {
+      "start": "20260310003000 +0000",
+      "stop": "20260310010000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 2",
+      "description": "Action from run two of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/98d63b41-9ee6-55ea-822f-391b7364cdd5.jpg"
+    },
+    {
+      "start": "20260310010000 +0000",
+      "stop": "20260310013000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Slalom-Run 1",
+      "description": "Action from run one of the slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/cff22493-9dcf-5ab3-8ee6-c2de80a1127d.jpg"
+    },
+    {
+      "start": "20260310013000 +0000",
+      "stop": "20260310020000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Slalom-Run 2",
+      "description": "Action from run two of the slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/4b275c99-3249-52a7-b227-050e2ee284fe.jpg"
+    },
+    {
+      "start": "20260310020000 +0000",
+      "stop": "20260310030000 +0000",
+      "title": "MLB Classic",
+      "subtitle": "2022 World Series Review",
+      "description": "A look back at the 2022 World Series between Houston Astros and Philadelphia Phillies.",
+      "category": "Baseball",
+      "icon": "https://tv.assets.pressassociation.io/a15b3a04-a25f-599b-aa07-b547ad9cd16d.jpg"
+    },
+    {
+      "start": "20260310030000 +0000",
+      "stop": "20260310033000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Downhill-Day 2",
+      "description": "Action from the downhill event in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/bbcaa662-f8e5-5286-ad1f-77ca30a46e4f.jpg"
+    },
+    {
+      "start": "20260310033000 +0000",
+      "stop": "20260310040000 +0000",
+      "title": "Women's Alpine Skiing World Cup",
+      "subtitle": "Fassa Valley-Super G",
+      "description": "Action from the Super-G in Fassa Valley, Italy.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/c14cdd3f-f505-54c2-870d-cfff41f2af91.jpg"
+    },
+    {
+      "start": "20260310040000 +0000",
+      "stop": "20260310043000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 1",
+      "description": "Action from run one of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/1146a66d-d2e3-510d-bd09-04820dc2199d.jpg"
+    },
+    {
+      "start": "20260310043000 +0000",
+      "stop": "20260310050000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Giant Slalom-Run 2",
+      "description": "Action from run two of the giant slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/98d63b41-9ee6-55ea-822f-391b7364cdd5.jpg"
+    },
+    {
+      "start": "20260310050000 +0000",
+      "stop": "20260310053000 +0000",
+      "title": "Men's Alpine Skiing World Cup",
+      "subtitle": "Kranjska Gora-Slalom-Run 1",
+      "description": "Action from run one of the slalom in Kranjska Gora, Slovenia.",
+      "category": "Skiing",
+      "icon": "https://tv.assets.pressassociation.io/cff22493-9dcf-5ab3-8ee6-c2de80a1127d.jpg"
     }
   ],
   "Premier.Sports.1.HD.uk": [
-    {
-      "start": "20260305210000 +0000",
-      "stop": "20260305220000 +0000",
-      "title": "NASCAR Highlights",
-      "subtitle": "Circuit of the Americas",
-      "description": "Action from the 2026 DuraMax Grand Prix Powered by RelaDyne.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d29e3a67-0b36-59e2-a90d-68e16828d005.jpg"
-    },
-    {
-      "start": "20260305220000 +0000",
-      "stop": "20260305223000 +0000",
-      "title": "World of FreeSports",
-      "subtitle": "",
-      "description": "Showcasing the world of action and outdoor sports from around the globe.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/06562b3f-613a-5ef5-a9b2-6bf2c00e58c9.jpg"
-    },
-    {
-      "start": "20260305223000 +0000",
-      "stop": "20260305233000 +0000",
-      "title": "Eredivisie Highlights",
-      "subtitle": "Round 25",
-      "description": "Action from the 25th round of fixtures.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/b7cf4840-29f8-5454-ace1-e2f15a7cd01c.jpg"
-    },
-    {
-      "start": "20260305233000 +0000",
-      "stop": "20260306003000 +0000",
-      "title": "Scottish Football Social Club",
-      "subtitle": "Scottish Football Social Club 54",
-      "description": "A round-up of the latest news and results.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/0efd5dca-a4a9-579c-9f7c-73c27844199f.jpg"
-    },
-    {
-      "start": "20260306003000 +0000",
-      "stop": "20260306004000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Levante v Alaves",
-      "description": "Levante v Alaves.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306004000 +0000",
-      "stop": "20260306005000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Rayo Vallecano v Athletic Club",
-      "description": "Rayo Vallecano v Athletic Bilbao.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306005000 +0000",
-      "stop": "20260306010000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Barcelona v Villarreal",
-      "description": "Barcelona v Villarreal.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306010000 +0000",
-      "stop": "20260306011000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Mallorca v Real Sociedad",
-      "description": "Mallorca v Real Sociedad.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306011000 +0000",
-      "stop": "20260306012000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Elche v Espanyol",
-      "description": "Elche v Espanyol.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306012000 +0000",
-      "stop": "20260306013000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Valencia v Osasuna",
-      "description": "Valencia v Osasuna.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306013000 +0000",
-      "stop": "20260306023000 +0000",
-      "title": "NHL Specials",
-      "subtitle": "Stanley Cup Championship Film",
-      "description": "A look at the Florida Panthers' historic repeat victory in the Stanley Cup.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg"
-    },
-    {
-      "start": "20260306023000 +0000",
-      "stop": "20260306053000 +0000",
-      "title": "Live NHL Ice Hockey",
-      "subtitle": "NY Islanders at Los Angeles",
-      "description": "Los Angeles Kings v New York Islanders (Face-off 2.30am). Coverage of the inter-conference match from Crypto.com Arena.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg"
-    },
-    {
-      "start": "20260306053000 +0000",
-      "stop": "20260306060000 +0000",
-      "title": "NHL: This is Hockey",
-      "subtitle": "This is Hockey: Chile",
-      "description": "A look at the growth of ice hockey in Chile.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
-    },
-    {
-      "start": "20260306060000 +0000",
-      "stop": "20260306070000 +0000",
-      "title": "MotorSport",
-      "subtitle": "Killarney Historic Rally",
-      "description": "Action from the 2025 Killarney Historic Rally.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/88171594-e545-58ce-a80e-332b66e01ec3.jpg"
-    },
-    {
-      "start": "20260306070000 +0000",
-      "stop": "20260306080000 +0000",
-      "title": "URC in 60",
-      "subtitle": "Round 12",
-      "description": "Action from the 12th round of fixtures.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/6abf80f8-42a1-5a5b-b012-6766317a3b82.jpg"
-    },
-    {
-      "start": "20260306080000 +0000",
-      "stop": "20260306100000 +0000",
-      "title": "Swedish Hockey League",
-      "subtitle": "HV71 v Linkoping",
-      "description": "HV71 v Linkoping.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/0ef33a43-5a5d-51cf-8e62-8c0e350014d6.jpg"
-    },
-    {
-      "start": "20260306100000 +0000",
-      "stop": "20260306110000 +0000",
-      "title": "Scottish Football Social Club",
-      "subtitle": "Scottish Football Social Club 54",
-      "description": "A round-up of the latest news and results.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/0efd5dca-a4a9-579c-9f7c-73c27844199f.jpg"
-    },
-    {
-      "start": "20260306110000 +0000",
-      "stop": "20260306111000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Levante v Alaves",
-      "description": "Levante v Alaves.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306111000 +0000",
-      "stop": "20260306112000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Rayo Vallecano v Athletic Club",
-      "description": "Rayo Vallecano v Athletic Bilbao.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306112000 +0000",
-      "stop": "20260306113000 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Barcelona v Villarreal",
-      "description": "Barcelona v Villarreal.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306113000 +0000",
-      "stop": "20260306120000 +0000",
-      "title": "MotorSport",
-      "subtitle": "The Valentino Rossi Story",
-      "description": "A look at the career of Valentino Rossi.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/88171594-e545-58ce-a80e-332b66e01ec3.jpg"
-    },
-    {
-      "start": "20260306120000 +0000",
-      "stop": "20260306140000 +0000",
-      "title": "NHL Ice Hockey",
-      "subtitle": "NY Islanders at Los Angeles",
-      "description": "Los Angeles Kings v New York Islanders.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
-    },
-    {
-      "start": "20260306140000 +0000",
-      "stop": "20260306150000 +0000",
-      "title": "NHL on the Fly",
-      "subtitle": "NHL on the Fly 150",
-      "description": "Catch up on all the latest NHL news.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/88e4db6e-34d2-5ae9-bc9b-a52d2cfa1250.jpg"
-    },
-    {
-      "start": "20260306150000 +0000",
-      "stop": "20260306162500 +0000",
-      "title": "The Rugby Pod",
-      "subtitle": "",
-      "description": "A podcast featuring the latest news and reviews from the world of rugby union.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9d5f40d-a602-5a78-b154-7a62557005c2.jpg"
-    },
-    {
-      "start": "20260306162500 +0000",
-      "stop": "20260306165500 +0000",
-      "title": "Top 14 Rugby Union Highlights",
-      "subtitle": "Round 18",
-      "description": "Action from the 18th round of fixtures.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/00d0858b-7470-5fa4-8935-7b426213c7db.jpg"
-    },
-    {
-      "start": "20260306165500 +0000",
-      "stop": "20260306172500 +0000",
-      "title": "Sporting Countdowns",
-      "subtitle": "Sporting Countdowns 5",
-      "description": "Focusing on some of the most memorable moments in sports history.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/28d03298-1b52-54eb-bcb9-eba5803148cd.jpg"
-    },
-    {
-      "start": "20260306172500 +0000",
-      "stop": "20260306182500 +0000",
-      "title": "Eredivisie Highlights",
-      "subtitle": "Round 25",
-      "description": "Action from the 25th round of fixtures.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/b7cf4840-29f8-5454-ace1-e2f15a7cd01c.jpg"
-    },
-    {
-      "start": "20260306182500 +0000",
-      "stop": "20260306183500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Levante v Alaves",
-      "description": "Levante v Alaves.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306183500 +0000",
-      "stop": "20260306184500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Rayo Vallecano v Athletic Club",
-      "description": "Rayo Vallecano v Athletic Bilbao.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306184500 +0000",
-      "stop": "20260306185500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Barcelona v Villarreal",
-      "description": "Barcelona v Villarreal.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306185500 +0000",
-      "stop": "20260306190500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Mallorca v Real Sociedad",
-      "description": "Mallorca v Real Sociedad.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306190500 +0000",
-      "stop": "20260306191500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Elche v Espanyol",
-      "description": "Elche v Espanyol.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306191500 +0000",
-      "stop": "20260306192500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Valencia v Osasuna",
-      "description": "Valencia v Osasuna.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306192500 +0000",
-      "stop": "20260306193500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Real Betis v Sevilla",
-      "description": "Real Betis v Sevilla.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306193500 +0000",
-      "stop": "20260306194500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Girona v Celta Vigo",
-      "description": "Girona v Celta Vigo.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
-    {
-      "start": "20260306194500 +0000",
-      "stop": "20260306195500 +0000",
-      "title": "LaLiga Match Highlights",
-      "subtitle": "Real Madrid v Getafe",
-      "description": "Real Madrid v Getafe.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d9ba722e-6c64-5b48-a707-42d4b16ff1b2.jpg"
-    },
     {
       "start": "20260306195500 +0000",
       "stop": "20260306220000 +0000",
@@ -21743,162 +21464,171 @@
       "description": "Buffalo Sabres v Tampa Bay Lightning (Face-off 10.00pm). Coverage of the Eastern Conference match from KeyBank Center.",
       "category": "Sport",
       "icon": "https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg"
-    }
-  ],
-  "Premier.Sports.2.HD.uk": [
-    {
-      "start": "20260305213000 +0000",
-      "stop": "20260305220000 +0000",
-      "title": "Bike World",
-      "subtitle": "",
-      "description": "The latest action from the high octane world of two wheels.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/e1536647-2e6f-5ad4-98f5-367e682be3bf.jpg"
     },
     {
-      "start": "20260305220000 +0000",
-      "stop": "20260306000000 +0000",
-      "title": "NHL Ice Hockey",
-      "subtitle": "Toronto at New Jersey",
-      "description": "New Jersey Devils v Toronto Maple Leafs.",
+      "start": "20260309010000 +0000",
+      "stop": "20260309013000 +0000",
+      "title": "NHL: This is Hockey",
+      "subtitle": "This is Hockey: Chile",
+      "description": "A look at the growth of ice hockey in Chile.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
+      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
     },
     {
-      "start": "20260306000000 +0000",
-      "stop": "20260306030000 +0000",
+      "start": "20260309013000 +0000",
+      "stop": "20260309043000 +0000",
       "title": "Live NHL Ice Hockey",
-      "subtitle": "Utah v Philadelphia",
-      "description": "Philadelphia Flyers v Utah Mammoth (Face-off 12.00am). Coverage of the inter-conference match from Xfinity Mobile Arena.",
+      "subtitle": "Edmonton at Vegas",
+      "description": "Vegas Golden Knights v Edmonton Oilers (Face-off 1.30am). Coverage of the Western Conference match from T-Mobile Arena.",
       "category": "Sport",
       "icon": "https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg"
     },
     {
-      "start": "20260306030000 +0000",
-      "stop": "20260306033000 +0000",
-      "title": "Temples of Sport",
-      "subtitle": "Temples of Sport 4",
-      "description": "Iconic sporting venues from around the globe.",
+      "start": "20260309043000 +0000",
+      "stop": "20260309050000 +0000",
+      "title": "NHL: This is Hockey",
+      "subtitle": "This is Hockey: Colombia",
+      "description": "A look at the growth of ice hockey in Colombia.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg"
+      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
     },
     {
-      "start": "20260306033000 +0000",
-      "stop": "20260306040000 +0000",
-      "title": "Football's Greatest",
-      "subtitle": "Football's Greatest 4",
-      "description": "The finest players in history discuss their careers.",
+      "start": "20260309050000 +0000",
+      "stop": "20260309060000 +0000",
+      "title": "NHL Specials",
+      "subtitle": "Stanley Cup Championship Film",
+      "description": "A look at the Florida Panthers' historic repeat victory in the Stanley Cup.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
+      "icon": "https://tv.assets.pressassociation.io/7c68a809-ba71-55ab-9d0e-58572973e2c9.jpg"
     },
     {
-      "start": "20260306040000 +0000",
-      "stop": "20260306060000 +0000",
-      "title": "Eredivisie",
-      "subtitle": "Twente v Feyenoord",
-      "description": "FC Twente v Feyenoord.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/271b862f-5d82-59e1-bc91-3bfbba5102d7.jpg"
-    },
-    {
-      "start": "20260306060000 +0000",
-      "stop": "20260306063000 +0000",
-      "title": "Football's Greatest",
-      "subtitle": "Football's Greatest 1",
-      "description": "The finest players in history discuss their careers.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
-    },
-    {
-      "start": "20260306063000 +0000",
-      "stop": "20260306070000 +0000",
-      "title": "Football's Greatest",
-      "subtitle": "Football's Greatest 3",
-      "description": "The finest players in history discuss their careers.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
-    },
-    {
-      "start": "20260306070000 +0000",
-      "stop": "20260306090000 +0000",
-      "title": "Top 14 Rugby Union",
-      "subtitle": "Pau v Bordeaux Begles",
-      "description": "Pau v Bordeaux Begles.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/b2a27490-c4d9-5c0c-8bce-6c221dbe9398.jpg"
-    },
-    {
-      "start": "20260306090000 +0000",
-      "stop": "20260306110000 +0000",
-      "title": "NHL Ice Hockey",
-      "subtitle": "Utah v Philadelphia",
-      "description": "Philadelphia Flyers v Utah Mammoth.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
-    },
-    {
-      "start": "20260306110000 +0000",
-      "stop": "20260306113000 +0000",
-      "title": "Bike World",
-      "subtitle": "",
-      "description": "The latest action from the high octane world of two wheels.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/e1536647-2e6f-5ad4-98f5-367e682be3bf.jpg"
-    },
-    {
-      "start": "20260306113000 +0000",
-      "stop": "20260306143000 +0000",
-      "title": "NASCAR Trucks",
-      "subtitle": "St. Petersburg",
-      "description": "The OnlyBulls Green Flag 150 at St. Petersburg.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/730dbbd3-0110-5542-b954-b0cbf0e757e4.jpg"
-    },
-    {
-      "start": "20260306143000 +0000",
-      "stop": "20260306150000 +0000",
-      "title": "GP Insights",
-      "subtitle": "GP Insights 1",
-      "description": "All the news from the world of the Grand Prix circuit.",
-      "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/9c365da6-45f4-5a31-b438-1357379e128f.jpg"
-    },
-    {
-      "start": "20260306150000 +0000",
-      "stop": "20260306170000 +0000",
+      "start": "20260309060000 +0000",
+      "stop": "20260309080000 +0000",
       "title": "LaLiga",
-      "subtitle": "Real Madrid v Getafe",
-      "description": "Real Madrid v Getafe.",
+      "subtitle": "Villarreal v Elche",
+      "description": "Villarreal v Elche.",
       "category": "Sport",
       "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
     },
     {
-      "start": "20260306170000 +0000",
-      "stop": "20260306185500 +0000",
-      "title": "Top 14 Rugby Union",
-      "subtitle": "Clermont Auvergne v Bayonne",
-      "description": "Clermont Auvergne v Bayonne.",
+      "start": "20260309080000 +0000",
+      "stop": "20260309100000 +0000",
+      "title": "NHL Ice Hockey",
+      "subtitle": "Edmonton at Vegas",
+      "description": "Vegas Golden Knights v Edmonton Oilers.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/b2a27490-c4d9-5c0c-8bce-6c221dbe9398.jpg"
+      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
     },
     {
-      "start": "20260306185500 +0000",
-      "stop": "20260306192500 +0000",
-      "title": "Temples of Sport",
-      "subtitle": "Temples of Sport 1",
-      "description": "Iconic sporting venues from around the globe.",
+      "start": "20260309100000 +0000",
+      "stop": "20260309120000 +0000",
+      "title": "NHL Ice Hockey",
+      "subtitle": "Tampa Bay at Buffalo",
+      "description": "Buffalo Sabres v Tampa Bay Lightning.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg"
+      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
     },
     {
-      "start": "20260306192500 +0000",
-      "stop": "20260306213000 +0000",
-      "title": "Live LaLiga Hypermotion",
-      "subtitle": "Cadiz v Zaragoza",
-      "description": "Cadiz v Real Zaragoza (Kick-off 7.30pm). Coverage of the second-tier match at Estadio Nuevo Mirandilla.",
+      "start": "20260309120000 +0000",
+      "stop": "20260309140000 +0000",
+      "title": "LaLiga",
+      "subtitle": "Valencia v Alaves",
+      "description": "Valencia v Alaves.",
       "category": "Sport",
-      "icon": "https://tv.assets.pressassociation.io/d601e1a9-8349-5b81-9114-0e7a484da036.jpg"
+      "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
     },
+    {
+      "start": "20260309140000 +0000",
+      "stop": "20260309143000 +0000",
+      "title": "NHL on the Fly",
+      "subtitle": "NHL on the Fly 153",
+      "description": "Catch up on all the latest NHL news.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/88e4db6e-34d2-5ae9-bc9b-a52d2cfa1250.jpg"
+    },
+    {
+      "start": "20260309143000 +0000",
+      "stop": "20260309150000 +0000",
+      "title": "NHL: This is Hockey",
+      "subtitle": "This is Hockey: Argentina",
+      "description": "A look at the growth of ice hockey in Argentina.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
+    },
+    {
+      "start": "20260309150000 +0000",
+      "stop": "20260309153000 +0000",
+      "title": "Sporting Greats",
+      "subtitle": "Sporting Greats 1",
+      "description": "Legendary sporting figures discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg"
+    },
+    {
+      "start": "20260309153000 +0000",
+      "stop": "20260309173000 +0000",
+      "title": "LaLiga",
+      "subtitle": "Getafe v Real Betis",
+      "description": "Getafe v Real Betis.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
+    },
+    {
+      "start": "20260309173000 +0000",
+      "stop": "20260309180000 +0000",
+      "title": "Sporting Greats",
+      "subtitle": "Sporting Greats 1",
+      "description": "Legendary sporting figures discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg"
+    },
+    {
+      "start": "20260309180000 +0000",
+      "stop": "20260309195500 +0000",
+      "title": "LaLiga",
+      "subtitle": "Sevilla v Rayo Vallecano",
+      "description": "Sevilla v Rayo Vallecano.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
+    },
+    {
+      "start": "20260309195500 +0000",
+      "stop": "20260309220000 +0000",
+      "title": "Live LaLiga",
+      "subtitle": "Espanyol v Oviedo",
+      "description": "Espanyol v Real Oviedo (Kick-off 8.00pm). Coverage of the Spanish top-flight match from RCDE Stadium.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/264bff3c-4fe4-5412-a723-a403bd98fd92.jpg"
+    },
+    {
+      "start": "20260309220000 +0000",
+      "stop": "20260309223000 +0000",
+      "title": "Sporting Greats",
+      "subtitle": "Sporting Greats 1",
+      "description": "Legendary sporting figures discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg"
+    },
+    {
+      "start": "20260309223000 +0000",
+      "stop": "20260309230000 +0000",
+      "title": "Sporting Greats",
+      "subtitle": "Sporting Greats 2",
+      "description": "Legendary sporting figures discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/7d07f14d-494d-5336-a732-a00221da7944.jpg"
+    },
+    {
+      "start": "20260309230000 +0000",
+      "stop": "20260310010000 +0000",
+      "title": "NHL Ice Hockey",
+      "subtitle": "Edmonton at Vegas",
+      "description": "Vegas Golden Knights v Edmonton Oilers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
+    }
+  ],
+  "Premier.Sports.2.HD.uk": [
     {
       "start": "20260306213000 +0000",
       "stop": "20260306220000 +0000",
@@ -22240,6 +21970,177 @@
       "description": "The latest action from the high octane world of two wheels.",
       "category": "Sport",
       "icon": "https://tv.assets.pressassociation.io/e1536647-2e6f-5ad4-98f5-367e682be3bf.jpg"
+    },
+    {
+      "start": "20260309000000 +0000",
+      "stop": "20260309003000 +0000",
+      "title": "Temples of Sport",
+      "subtitle": "Temples of Sport 1",
+      "description": "Iconic sporting venues from around the globe.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg"
+    },
+    {
+      "start": "20260309003000 +0000",
+      "stop": "20260309023000 +0000",
+      "title": "NHL Ice Hockey",
+      "subtitle": "Minnesota at Colorado",
+      "description": "Colorado Avalanche v Minnesota Wild.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
+    },
+    {
+      "start": "20260309023000 +0000",
+      "stop": "20260309043000 +0000",
+      "title": "LaLiga",
+      "subtitle": "Getafe v Real Betis",
+      "description": "Getafe v Real Betis.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
+    },
+    {
+      "start": "20260309043000 +0000",
+      "stop": "20260309050000 +0000",
+      "title": "Football's Greatest",
+      "subtitle": "Football's Greatest 10",
+      "description": "The finest players in history discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
+    },
+    {
+      "start": "20260309050000 +0000",
+      "stop": "20260309060000 +0000",
+      "title": "MotorSport",
+      "subtitle": "Killarney Historic Rally",
+      "description": "Action from the 2025 Killarney Historic Rally.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/88171594-e545-58ce-a80e-332b66e01ec3.jpg"
+    },
+    {
+      "start": "20260309060000 +0000",
+      "stop": "20260309063000 +0000",
+      "title": "Temples of Sport",
+      "subtitle": "Temples of Sport 3",
+      "description": "Iconic sporting venues.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg"
+    },
+    {
+      "start": "20260309063000 +0000",
+      "stop": "20260309103000 +0000",
+      "title": "NASCAR",
+      "subtitle": "Phoenix Raceway",
+      "description": "Another chance to see the 2026 Straight Talk Wireless 500.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/d29e3a67-0b36-59e2-a90d-68e16828d005.jpg"
+    },
+    {
+      "start": "20260309103000 +0000",
+      "stop": "20260309110000 +0000",
+      "title": "Bike World",
+      "subtitle": "",
+      "description": "The latest action from the high octane world of two wheels.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/e1536647-2e6f-5ad4-98f5-367e682be3bf.jpg"
+    },
+    {
+      "start": "20260309110000 +0000",
+      "stop": "20260309140000 +0000",
+      "title": "NASCAR O'Reilly Series",
+      "subtitle": "Phoenix",
+      "description": "Action from Phoenix Raceway.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/c14fa42a-5b82-52b5-a0bd-25ec8cd8ea00.jpg"
+    },
+    {
+      "start": "20260309140000 +0000",
+      "stop": "20260309143000 +0000",
+      "title": "MotorSport",
+      "subtitle": "The Valentino Rossi Story",
+      "description": "A look at the career of Valentino Rossi.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/88171594-e545-58ce-a80e-332b66e01ec3.jpg"
+    },
+    {
+      "start": "20260309143000 +0000",
+      "stop": "20260309150000 +0000",
+      "title": "Temples of Sport",
+      "subtitle": "Temples of Sport 7",
+      "description": "Iconic sporting venues from around the globe.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/a7c34b74-fe6c-5dc8-9d11-366466e8516a.jpg"
+    },
+    {
+      "start": "20260309150000 +0000",
+      "stop": "20260309170000 +0000",
+      "title": "NHL Ice Hockey",
+      "subtitle": "Tampa Bay at Buffalo",
+      "description": "Buffalo Sabres v Tampa Bay Lightning.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/058b4bbc-ab3d-5c4a-8d2a-6cfa37d868b5.jpg"
+    },
+    {
+      "start": "20260309170000 +0000",
+      "stop": "20260309173000 +0000",
+      "title": "Football's Greatest",
+      "subtitle": "Football's Greatest 7",
+      "description": "The finest players in history discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
+    },
+    {
+      "start": "20260309173000 +0000",
+      "stop": "20260309180000 +0000",
+      "title": "Football's Greatest",
+      "subtitle": "Football's Greatest 8",
+      "description": "The finest players in history discuss their careers.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/31c81ef5-7517-511a-a3ca-0989dbc47b8f.jpg"
+    },
+    {
+      "start": "20260309180000 +0000",
+      "stop": "20260309200000 +0000",
+      "title": "LaLiga",
+      "subtitle": "Osasuna v Mallorca",
+      "description": "Osasuna v Mallorca.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/4a7b3464-3c38-5967-8c54-226430075172.jpg"
+    },
+    {
+      "start": "20260309200000 +0000",
+      "stop": "20260309220000 +0000",
+      "title": "Elite Ice Hockey League",
+      "subtitle": "Glasgow Clan v Guildford Flames",
+      "description": "Glasgow Clan v Guildford Flames.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/7eb1c327-6add-5341-a4c0-c0febde3654d.jpg"
+    },
+    {
+      "start": "20260309220000 +0000",
+      "stop": "20260309223000 +0000",
+      "title": "NHL: This is Hockey",
+      "subtitle": "This is Hockey: Puerto Rico",
+      "description": "A look at the growth of ice hockey in Puerto Rico.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
+    },
+    {
+      "start": "20260309223000 +0000",
+      "stop": "20260309230000 +0000",
+      "title": "NHL: This is Hockey",
+      "subtitle": "This is Hockey: Mexico",
+      "description": "A look at the growth of ice hockey in Mexico.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/2ed9cbba-eb7e-583a-b379-fb502b044eb8.jpg"
+    },
+    {
+      "start": "20260309230000 +0000",
+      "stop": "20260310020000 +0000",
+      "title": "Live NHL Ice Hockey",
+      "subtitle": "NY Rangers at Philadelphia",
+      "description": "Philadelphia Flyers v New York Rangers (Face-off 11.00pm). Coverage of the Eastern Conference match from Xfinity Mobile Arena.",
+      "category": "Sport",
+      "icon": "https://tv.assets.pressassociation.io/bcfc6faf-2ed8-5c35-bee6-d432dc692c3b.jpg"
     }
   ],
   "ABC.National.Feed.us2": [
